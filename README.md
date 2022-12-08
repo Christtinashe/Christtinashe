@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Christopher tsiga
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on mainly python programming and javascript programming
+- 📫 you can reach me on email @ christsiga04@gmail.com
